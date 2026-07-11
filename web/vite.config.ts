@@ -34,9 +34,9 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: "APPNAME",
-        short_name: "APPNAME",
-        description: "APPNAME — free forever",
+        name: "Glow Match",
+        short_name: "Glow Match",
+        description: "Glow Match — free forever",
         start_url: "/",
         display: "standalone",
         background_color: "#ffffff",
